@@ -1,0 +1,20 @@
+#header{
+	text-align: center;
+}
+
+li {
+	list-style-type: none;
+	padding-top: 1em;
+}
+
+.itemList {
+	height: 2.6em;
+	background-color: gray;
+	margin-top: .3em;
+	font-size: 1.4em;
+	padding-top: 1.2em;
+	text-align: center;
+	border-radius: .2em;
+	color: black;
+	margin-left: -2em;
+}
